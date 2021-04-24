@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "./static/css/main.628cf3c8.chunk.css",
-    "main.js": "./static/js/main.bf58b398.chunk.js",
-    "main.js.map": "./static/js/main.bf58b398.chunk.js.map",
+    "main.css": "./static/css/main.c4e31ba2.chunk.css",
+    "main.js": "./static/js/main.27df5c69.chunk.js",
+    "main.js.map": "./static/js/main.27df5c69.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.00da25c4.js",
     "runtime-main.js.map": "./static/js/runtime-main.00da25c4.js.map",
-    "static/js/2.a4ae0604.chunk.js": "./static/js/2.a4ae0604.chunk.js",
-    "static/js/2.a4ae0604.chunk.js.map": "./static/js/2.a4ae0604.chunk.js.map",
+    "static/js/2.48e3c8fb.chunk.js": "./static/js/2.48e3c8fb.chunk.js",
+    "static/js/2.48e3c8fb.chunk.js.map": "./static/js/2.48e3c8fb.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.628cf3c8.chunk.css.map": "./static/css/main.628cf3c8.chunk.css.map",
-    "static/js/2.a4ae0604.chunk.js.LICENSE.txt": "./static/js/2.a4ae0604.chunk.js.LICENSE.txt",
+    "static/css/main.c4e31ba2.chunk.css.map": "./static/css/main.c4e31ba2.chunk.css.map",
+    "static/js/2.48e3c8fb.chunk.js.LICENSE.txt": "./static/js/2.48e3c8fb.chunk.js.LICENSE.txt",
     "static/media/1.c44c8619.jpg": "./static/media/1.c44c8619.jpg",
     "static/media/2.82609071.jpg": "./static/media/2.82609071.jpg",
     "static/media/3.e9df9a03.jpg": "./static/media/3.e9df9a03.jpg",
     "static/media/4.35a1e05f.jpg": "./static/media/4.35a1e05f.jpg",
     "static/media/admin.a77bc52b.webp": "./static/media/admin.a77bc52b.webp",
-    "static/media/style.module.css": "./static/media/bg2.6f181eb4.webp",
     "static/media/indaapp.6b12e5ca.webp": "./static/media/indaapp.6b12e5ca.webp",
     "static/media/indulgence.c99842c1.webp": "./static/media/indulgence.c99842c1.webp",
     "static/media/logo.82edc6b2.webp": "./static/media/logo.82edc6b2.webp",
     "static/media/pokemon.1b2a4640.webp": "./static/media/pokemon.1b2a4640.webp",
-    "static/media/stopcheck.29b06be4.webp": "./static/media/stopcheck.29b06be4.webp"
+    "static/media/stopcheck.29b06be4.webp": "./static/media/stopcheck.29b06be4.webp",
+    "static/media/weather.efbccc21.webp": "./static/media/weather.efbccc21.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.00da25c4.js",
-    "static/js/2.a4ae0604.chunk.js",
-    "static/css/main.628cf3c8.chunk.css",
-    "static/js/main.bf58b398.chunk.js"
+    "static/js/2.48e3c8fb.chunk.js",
+    "static/css/main.c4e31ba2.chunk.css",
+    "static/js/main.27df5c69.chunk.js"
   ]
 }
